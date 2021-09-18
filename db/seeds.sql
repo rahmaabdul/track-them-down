@@ -47,4 +47,3 @@ insert into employee (first_name, last_name, role_id, manager_id) values
 ("Stephen","Strange",11,13),
 ("James","Rhodes",13,2),
 ("Wanda","Maximoff",15,4);
-
