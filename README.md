@@ -21,7 +21,7 @@
  User story - 
  
 #  Links
-  - walkthrough video:
+  - walkthrough video: https://drive.google.com/file/d/16la01MCHUe4TlUGCuiw--lUxgNIkptEj/view
   - repo: https://github.com/rahmaabdul/track-them-down
   
 #  Screenshot
