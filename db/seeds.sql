@@ -33,9 +33,9 @@ insert into role (title, salary, department_id) values
 ("CTO",185000,8); 
 
 insert into employee (first_name, last_name, role_id, manager_id) values
-("Nick", "Fury",20,null),
+("Nick","Fury",20,null),
 ("Peter","Parker",18,null),
-("Bucky", "Barnes",19,null),
+("Bucky","Barnes",19,null),
 ("Natasha","Romanoff",2,1),
 ("Tony","Stark",1,2),
 ("Steve","Rodgers",5,null),
