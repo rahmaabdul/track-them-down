@@ -13,6 +13,23 @@
 - Track Them Down is an employee management system. It uses Node,js command line to work and allow users to track employees,their roles and multiple departments.
 
 # Usage
+<<<<<<< HEAD
+=======
+ 
+ Installation - 
+ 
+ User story - 
+ 
+#  Links
+  - walkthrough video:
+  - repo: https://github.com/rahmaabdul/track-them-down
+  
+#  Screenshot
+![image](https://user-images.githubusercontent.com/82878278/137135610-962498fa-f739-42aa-afec-7d21fd9ea877.png)
+
+ 
+#  Lisence 
+>>>>>>> 6af02db0fe5263ee72e5c9c0542dc36f513f625f
 
 Installation -
 
@@ -30,4 +47,9 @@ run node app.js
 
 # Screenshots
 
+<<<<<<< HEAD
 # Lisence
+=======
+
+
+>>>>>>> 6af02db0fe5263ee72e5c9c0542dc36f513f625f
